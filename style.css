@@ -1,0 +1,40 @@
+body {
+    background: ghostwhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    top: 500px;
+    text-shadow: maroon;
+}
+.container {
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+}
+/* class table */
+.table {
+    background-color: midnightblue;
+}
+.table { 
+    background-color: plum;
+}
+/* class jam */
+.jam {background-color: purple;}
+.jam1 {background-color: salmon;}
+.jam2 {background-color: tan;}
+/* Class mapel */
+.mapel {background-color: tomato;}
+.mapel1 {background-color: aquamarine;}
+.mapel12 {background-color: beige;}
+.mapel13 {background-color: bisque;}
+.mapel14 {background-color: cornsilk;}
+.mapel15 {background-color: darkgrey;}
+.mapel16 {background-color: lavender;}
+.mapel17 {background-color: lawngreen;}
+.mapel18 {background-color: lightblue;}
+.mapel19 {background-color: lightgreen;}
+.mapel10 {background-color: lightseagreen;}
+.mapel11 {background-color: lightsteelblue;}
+.mapel12 {background-color: mediumaquamarine;}
+.mapel13 {background-color: mediumpurple;}
+
+
